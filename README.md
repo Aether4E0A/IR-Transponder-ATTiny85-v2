@@ -1,5 +1,4 @@
 <img src="http://imgur.com/DcGJs6S.png" >
-Picture of previous version of the transponder.
 
 # IR-Transponder-ATTiny85-v2
 
