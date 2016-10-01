@@ -4,4 +4,5 @@
 
 This is the 2nd version of my open source I-Laps compatible Transponder, using the ATTiny85 and 16MHz resonator.
 
-This is a work in progress.
+This uses the DIP-8 package for the ATTiny85. This permits the MCU to be placed in a socket, allowing removal for
+reprogramming. A friendly option that can be adapted.
