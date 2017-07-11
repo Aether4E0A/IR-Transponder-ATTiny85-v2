@@ -1,4 +1,4 @@
-<img src="http://imgur.com/DcGJs6S.png" >
+
 
 # IR-Transponder-ATTiny85-v2
 
